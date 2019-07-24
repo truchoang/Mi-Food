@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 200vh;
+}
+.container{
+    margin: 0px auto;
+    width: 1100px;
+    
+}
+.row{
+    display: flex;
+}
+.col-4{
+    width: 33.333333333%;
+}
+.col-8{
+    width: 66.666666666%;
+}
+
+ul {
+    list-style: none;
+    }
+
+header{
+    margin: 0px;
+    padding: 0;
+}
+.header{
+    height: 50px;
+    background-color:white;
+}
+.header .fixed{
+    position: fixed;
+}
+.header .logo{
+    padding: 15px;
+}
+.header .icon{
+    padding: 15px 20px;
+}
+/* .header .row >li{
+    padding: 15px 20px;
+} */
+.header .thanhcongcu {
+    font-family: HelveticaNeue;
+    font-size: 13px;
+    line-height: 15px;
+    margin: auto;
+    padding-left: 180px;
+}
+.header .thanhcongcu .row >li{
+    /* tại sao .header >li   hoặc .header .thanhcongcu >li không đc. mà .row mới đc */
+    padding-right: 20px;
+}
+.header .green{
+    color: #57A773;
+}
+
