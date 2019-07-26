@@ -72,24 +72,25 @@ header{
 -------------------------------------------- */
 
 footer{
-    background-color: blueviolet;
+    background-color: #fff;
     width: 100vw;
     padding:  2vh 0px;
+    box-shadow: inset 0px 1px 0px rgba(179, 179, 179, 0.5);
 }
 
 footer .container{
     width: 80vw;
 }
 footer .cmt1,
-         .cmt2{
-    font-size: 12px;
-    line-height: 14px;
-    color: #959EA6;
+        .cmt2{
+        font-size: 12px;
+        line-height: 14px;
+        color: #959EA6;
 }
-
 .cmt1{
     text-align: left;
 }
 .cmt2{
-    text-align: right;
+    margin: auto;
+    margin-inline-end: 0;
 }
