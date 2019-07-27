@@ -68,10 +68,19 @@ header{
 }
 .col-4 .menu .tieude{
     font-size: 16px;
-line-height: 19px;
-
-color: #100E0B;
+    line-height: 19px;
+    color: #100E0B;
 }
+.menu .line{
+    border-bottom: 1px solid;;
+    border-color: #57A773;
+    width: 50px;
+    padding: 20px 0px 20px 0px;
+}
+.menu .khoangcach{
+    height: 20px;
+}
+
 
 
 
