@@ -1,11 +1,12 @@
 body{
     margin: 0;
     padding: 0;
-    width: 100vh;
+    width: 100vw;
+    font-family: HelveticaNeue;
 }
 .container{
     margin: 0px auto;
-    width: 80vh;
+    width: 80vw;
 }
 .row{
     display: flex;
@@ -39,7 +40,6 @@ header{
     padding: 15px 0px 15px 40px;
 }
 .header .canhphai{
-    width: 250px;
     justify-content: flex-end;
 }
 .header .thanhcongcu {
@@ -57,9 +57,25 @@ header{
     color: #57A773;
 }
 
-.body{
-    width: 100vw;
+/* ------------------------------------------------------------------------------------------------------- */
+.menu{
+
 }
+.col-4 .menu >li{
+    font-size: 13px;
+    line-height: 29px;
+    color: #959EA6;
+}
+.col-4 .menu .tieude{
+    font-size: 16px;
+line-height: 19px;
+
+color: #100E0B;
+}
+
+
+
+
 /* -------------------------------------
 .Box{
     height: 60vh;
