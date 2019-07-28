@@ -20,4 +20,22 @@
     color: #85878C;
     text-align: center;
 }
+.setting-img{
+    width: -webkit-fill-available;  
+}
+.DangKy .NhapThongTin{
+    padding: 20px 0 0 70px;
+}
+.DangKy .bd_radius-Dangky{
+    background: #FFFFFF;
+    border: 1px solid #E4E4E4;
+    border-radius: 8px;
+    padding: 18px;
+    width: 23vw;
+}
+.ithemes{
+    align-items: center;
+    padding: 20px 0px;
+    padding-left: 100px;
+}
 

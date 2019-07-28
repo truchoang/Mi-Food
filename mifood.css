@@ -1,12 +1,12 @@
 body{
     margin: 0;
     padding: 0;
-    width: 100vw;
+    
     font-family: HelveticaNeue;
 }
 .container{
     margin: 0px auto;
-    width: 80vw;
+    width: 90vw;
 }
 .row{
     display: flex;
@@ -40,6 +40,7 @@ header{
     padding: 15px 0px 15px 40px;
 }
 .header .canhphai{
+    margin: 0px 100px;
     justify-content: flex-end;
 }
 .header .thanhcongcu {
@@ -71,19 +72,58 @@ header{
     line-height: 19px;
     color: #100E0B;
 }
-.menu .line{
+.col-4 .menu .line{
     border-bottom: 1px solid;;
     border-color: #57A773;
     width: 50px;
     padding: 20px 0px 20px 0px;
 }
-.menu .khoangcach{
+.col-4 .khoangcach{
     height: 20px;
 }
-
-
-
-
+.kobiettengi{
+    padding: 8px 0px;
+}
+.col-4 .bd_radius{
+    background: #FFFFFF;
+    border: 2px solid #d4d4d4;
+    border-radius: 38px;
+    padding: 18px;
+    width: 255px;
+}
+.submit-bd_radius{
+    background: #57A773;
+    border-radius: 43px;
+    padding: 18px;
+    margin-top: 20px;
+    width: 300px;
+}
+.email{
+    font-size: 16px;
+    line-height: 19px;
+    text-align: left;
+    letter-spacing: -0.2px;
+    color: #1B1916;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+    
+}
+.col-4 .line{
+    border-bottom: 1px solid;;
+    border-color: #57A773;
+    width: 50px;
+    width: max-content;
+    padding: 20px 0px 20px 0px;
+}
+.user{
+    align-items: center;
+    padding: 20px 0px;
+    padding-left: 50px;
+}
+.bd-none{
+    border: none;
+    align-items: center;
+}
 
 /* -------------------------------------
 .Box{
@@ -98,7 +138,7 @@ header{
 
 footer{
     background-color: #fff;
-    width: 100vw;
+    /* width: 100vw; */
     padding:  2vh 0px;
     box-shadow: inset 0px 1px 0px rgba(179, 179, 179, 0.5);
 }
