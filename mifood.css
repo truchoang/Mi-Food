@@ -1,7 +1,6 @@
 body{
     margin: 0;
     padding: 0;
-    
     font-family: HelveticaNeue;
 }
 .container{
@@ -40,15 +39,14 @@ header{
     padding: 15px 0px 15px 40px;
 }
 .header .canhphai{
-    margin: 0px 100px;
-    justify-content: flex-end;
+    margin: 0px 60px;
 }
 .header .thanhcongcu {
     font-family: HelveticaNeue;
     font-size: 13px;
     line-height: 15px;
     margin: auto;
-    padding-left: 220px;
+    padding-left: 250px;
 }
 .header .thanhcongcu .row >li{
     /* tại sao .header >li   hoặc .header .thanhcongcu >li không đc. mà .row mới đc */
@@ -58,7 +56,7 @@ header{
     color: #57A773;
 }
 
-/* ------------------------------------------------------------------------------------------------------- */
+/* ------------------------------Danh mục lựa chọn------------------------------------------------ */
 .menu{
 
 }
@@ -78,9 +76,7 @@ header{
     width: 50px;
     padding: 20px 0px 20px 0px;
 }
-.col-4 .khoangcach{
-    height: 20px;
-}
+/* --------------------Khung col-4 đăng ký--------------- */
 .kobiettengi{
     padding: 8px 0px;
 }
@@ -98,15 +94,23 @@ header{
     margin-top: 20px;
     width: 300px;
 }
+.format-bottom_Submit{
+    font-size: 18px;
+line-height: 21px;
+text-align: center;
+letter-spacing: -0.225px;
+color: #FFFFFF;
+}
+
 .email{
     font-size: 16px;
     line-height: 19px;
     text-align: left;
     letter-spacing: -0.2px;
     color: #1B1916;
-    mix-blend-mode: normal;
-    opacity: 0.5;
-    
+}
+.col-4 .khoangcach{
+    height: 20px;
 }
 .col-4 .line{
     border-bottom: 1px solid;;

@@ -26,6 +26,14 @@
 .DangKy .NhapThongTin{
     padding: 20px 0 0 70px;
 }
+.DangKy .NhapThongTin .format-send{
+    font-size: 18px;
+line-height: 21px;
+text-align: center;
+letter-spacing: -0.225px;
+
+color: #FFFFFF;
+}
 .DangKy .bd_radius-Dangky{
     background: #FFFFFF;
     border: 1px solid #E4E4E4;
@@ -33,7 +41,8 @@
     padding: 18px;
     width: 23vw;
 }
-.ithemes{
+
+.DangKy .ithemes{
     align-items: center;
     padding: 20px 0px;
     padding-left: 100px;
