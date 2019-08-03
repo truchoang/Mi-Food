@@ -1,0 +1,79 @@
+
+.news{
+    height: auto;
+    padding: 5px;
+}
+.article {
+    width: auto;
+    height: auto;
+    display: inline-block;
+    vertical-align:top;
+}
+.thumb {
+    width: auto;
+    height: 85vh;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+} 
+/* ------------------------------------------------------------------------------------------ */
+
+.price{
+    padding: 8px 30px;
+    background: #202741;
+    border-radius: 19px;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+.recommend .container{
+    width: 29vw;
+    padding-left: 80px;
+}
+.recommend .TenMon{
+    font-size: 56px;
+    line-height: 66px;
+    letter-spacing: -0.7px;
+    color: #100E0B;
+    margin: 20px 0;
+}
+.recommend .deserts{
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: -0.15px;
+    color: #A4A8B2;
+    margin: 0;
+}
+.recommend .note{
+    font-size: 13px;
+    line-height: 18px;
+    letter-spacing: -0.1625px;
+    color: #85878C;
+    margin: 0;
+}
+.recommend .bgr-green{
+    background: #57A773;
+}
+.dauchamtron{
+    padding: 0px 7.5px;
+    border-radius: 10px;
+    margin: 0;
+    height: 15px;
+}
+.recommend .thongtinthem >td{
+    width: 10vw;
+    padding-top:45px;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: -0.15px;
+    color: #A4A8B2;
+}
+.recommend .thongtinthem-color_green{
+    font-size: 16px;
+line-height: 19px;
+letter-spacing: -0.2px;
+
+color: #57A773;
+
+}
