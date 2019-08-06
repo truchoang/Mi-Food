@@ -19,6 +19,15 @@ body{
 .col-6{
     width: 60vw; /*50% */
 }
+.col-3{
+    width: 25vw;
+}
+.col-2{
+    width: 16.666666666vw;
+}
+.col-khoangtrang{
+    width: 5vw;
+}
 .bgr-green{
     background: #57A773;
 }
@@ -114,6 +123,7 @@ color: #FFFFFF;
     letter-spacing: -0.2px;
     color: #1B1916;
 }
+
 .col-4 .khoangcach{
     height: 20px;
 }

@@ -27,33 +27,33 @@
     text-align: center;
     vertical-align: middle;
 }
-.recommend .container{
+.Highlights .container{
     width: 29vw;
     padding-left: 80px;
     padding-top: 60px;
 }
-.recommend .TenMon{
+.Highlights .TenMon{
     font-size: 56px;
     line-height: 66px;
     letter-spacing: -0.7px;
     color: #100E0B;
     margin: 20px 0;
 }
-.recommend .deserts{
+.Highlights .deserts{
     font-size: 12px;
     line-height: 16px;
     letter-spacing: -0.15px;
     color: #A4A8B2;
     margin: 0;
 }
-.recommend .note{
+.Highlights .note{
     font-size: 13px;
     line-height: 18px;
     letter-spacing: -0.1625px;
     color: #85878C;
     margin: 0;
 }
-.recommend .bgr-green{
+.Highlights .bgr-green{
     background: #57A773;
 }
 .dauchamtron{
@@ -62,7 +62,7 @@
     margin: 0;
     height: 15px;
 }
-.recommend .thongtinthem >td{
+.Highlights .thongtinthem >td{
     width: 10vw;
     padding-top:45px;
     font-size: 12px;
@@ -70,10 +70,61 @@
     letter-spacing: -0.15px;
     color: #A4A8B2;
 }
-.recommend .thongtinthem-color_green{
+.Highlights .thongtinthem-color_green{
     font-size: 16px;
     line-height: 19px;
     letter-spacing: -0.2px;
     color: #57A773;
 
+}
+/* ---------------------------------------------------------------------------------------------- */
+.tieu-de-recommend{
+    font-size: 48px;
+    line-height: 56px;
+    letter-spacing: -0.6px;
+    color: #100E0B;
+}
+.anh-minh-hoa{
+    width: 21.5vw;
+    height: 35vh;
+}
+.anh-minh-hoa_order{
+    width: 20vw;
+    height: 30vh;
+}
+.recommend_Featured-meal{
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: -0.225px;
+    color: #100E0B;
+}
+.recommend_caption{
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: -0.15px;
+    color: #A4A8B2;
+}
+.recommend_note{
+    font-size: 13px;
+    line-height: 18px;
+    letter-spacing: -0.1625px;
+    color: #85878C;
+}
+.order{
+    box-shadow: inset 1px 0px 0px rgba(214, 214, 214, 0.5), inset -1px 0px 0px rgba(214, 214, 214, 0.5), inset 0px 1px 0px rgba(214, 214, 214, 0.5);
+border-radius: 0px 8px 8px 0px;
+}
+.order_recommend_Featured-meal{
+    font-size: 32px;
+    line-height: 37px;
+    letter-spacing: -0.4px;
+    color: #100E0B;
+    margin: 0;
+}
+.col-3 .container{
+    width: 20vw;
+}
+.col-3 .canhgiua{
+    padding: 10px;
+    width: 20vw;
 }
