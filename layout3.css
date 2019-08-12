@@ -90,7 +90,7 @@
 }
 .anh-minh-hoa_order{
     width: 20vw;
-    height: 30vh;
+    height: 25vh;
 }
 .recommend_Featured-meal{
     font-size: 18px;
@@ -103,6 +103,7 @@
     line-height: 16px;
     letter-spacing: -0.15px;
     color: #A4A8B2;
+    margin-top: 0;
 }
 .recommend_note{
     font-size: 13px;
@@ -120,6 +121,7 @@ border-radius: 0px 8px 8px 0px;
     letter-spacing: -0.4px;
     color: #100E0B;
     margin: 0;
+    padding-top: 10px;
 }
 .col-3 .container{
     width: 20vw;
@@ -127,4 +129,43 @@ border-radius: 0px 8px 8px 0px;
 .col-3 .canhgiua{
     padding: 10px;
     width: 20vw;
+}
+.bd_radius{
+    border: 1px solid #DCDCDC;
+    border-radius: 43px;
+    padding: 10px 35px ;
+    background: #FFF;
+}
+.margin-top-bot{
+    margin: 20px 0px;
+}
+.ba-cham{
+    border: 1px solid #DCDCDC;
+    padding: 3px 11px;
+    border-radius: 20px;
+}
+.bar{
+    background: #FFFFFF;
+    border: 1px solid #EAEAEA;
+    box-sizing: border-box;
+    border-radius: 0px 0px 8px 8px;
+    padding: 6px 20px;
+    width: 21.5vw;
+}
+.bar-order{
+    width: 25vw;
+}
+.bar .padding-left-28{
+    padding-left: 28px;
+}
+.bar .padding-left-135{
+    padding-left: 135px;
+}
+.bar .so-lieu{
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: -0.1625px;
+    color: #A4A8B2;
+    margin: 0;
+
 }

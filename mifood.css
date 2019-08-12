@@ -110,10 +110,10 @@ header{
 }
 .format-bottom_Submit{
     font-size: 18px;
-line-height: 21px;
-text-align: center;
-letter-spacing: -0.225px;
-color: #FFFFFF;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: -0.225px;
+    color: #FFFFFF;
 }
 
 .email{
