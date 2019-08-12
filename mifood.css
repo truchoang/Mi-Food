@@ -177,3 +177,10 @@ footer .cmt1,
     margin: auto;
     margin-inline-end: 0;
 }
+/* ----------------------------------------------------------------------------------------------- */
+.fontsize12-height16-xam{
+        font-size: 12px;
+        line-height: 16px;
+        letter-spacing: -0.15px;
+        color: #A4A8B2;
+}
